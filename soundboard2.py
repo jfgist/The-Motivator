@@ -79,6 +79,6 @@ while True:
       if event.key == K_w:
         sound0.play()
       if event.key == K_e:
-        sound7.play()
+        sound4.play()
       if event.key == K_c:
         quit()
