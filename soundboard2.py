@@ -26,13 +26,12 @@ GPIO.output(10,True)
 #GPIO.output(17,True)
 GPIO.output(27,True)
 
-
 time_stamp = time.time()
 
 bTime = 300
 
 sound0 = pygame.mixer.Sound("DoItNowCheckItIn.wav")
-sound1 = pygame.mixer.Sound("DoItNow.wav")
+sound1 = pygame.mixer.Sound("ShipIt.wav")
 sound2 = pygame.mixer.Sound("CheckItIn.wav")
 sound3 = pygame.mixer.Sound("justmakeitwork.wav")
 sound4 = pygame.mixer.Sound("applause.wav")
