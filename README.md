@@ -12,5 +12,4 @@ I currently have this mounted in a Star Wars lunch box with a dedicated speaker 
 ![ScreenShot](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/0/4/4/11044-01a_i_ma.jpg)
 
 #### Running
-*Instructions needed to have this run on startup*
-
+* Copy the soundboard.desktop file to /home/pi/.config/autostart
