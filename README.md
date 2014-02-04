@@ -13,3 +13,5 @@ I currently have this mounted in a Star Wars lunch box with a dedicated speaker 
 
 #### Running
 * Copy the soundboard.desktop file to /home/pi/.config/autostart
+* Taken from this link http://www.slideshare.net/SeggySegaran/raspberry-pi-autostarting-a-python-program
+* 
